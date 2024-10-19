@@ -1,4 +1,4 @@
-![Imagem da tela desenvolvida](https://github.com/acofernandess/bankapp/blob/main/asset/bankapp.jpg)
+![Imagem da tela desenvolvida](https://github.com/acofernandess/bankapp/asset/bankapp.jpg)
 
 # bankapp
 
